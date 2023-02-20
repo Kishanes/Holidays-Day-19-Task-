@@ -2,16 +2,6 @@ var globalData = []
 const formElement = document.createElement('form')
 var currentidx = 0
 var maxIndex= 0
-
-
-
-
-
-
-
-
-
-
 const fun1 = async(code) =>{
    
     var table = $('#table-body')
